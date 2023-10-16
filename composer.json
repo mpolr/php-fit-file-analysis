@@ -1,5 +1,5 @@
 {
-    "name": "adriangibbons/php-fit-file-analysis",
+    "name": "mpolr/php-fit-file-analysis",
     "type": "library",
     "description": "A PHP class for analysing FIT files created by Garmin GPS devices",
     "keywords": ["garmin", "fit"],
