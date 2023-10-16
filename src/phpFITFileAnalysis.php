@@ -927,6 +927,8 @@ class phpFITFileAnalysis
                 121 => ['field_name' => 'max_power_position',             'scale' => 1,         'offset' => 0, 'units' => 'watts'],
                 122 => ['field_name' => 'avg_cadence_position',           'scale' => 1,         'offset' => 0, 'units' => 'rpm'],
                 123 => ['field_name' => 'max_cadence_position',           'scale' => 1,         'offset' => 0, 'units' => 'rpm'],
+                124 => ['field_name' => 'enhanced_avg_speed',             'scale' => 1000,      'offset' => 0, 'units' => 'm/s'],
+                125 => ['field_name' => 'enhanced_max_speed',             'scale' => 1000,      'offset' => 0, 'units' => 'm/s'],
                 253 => ['field_name' => 'timestamp',                      'scale' => 1,         'offset' => 0, 'units' => 's'],
                 254 => ['field_name' => 'message_index',                  'scale' => 1,         'offset' => 0, 'units' => ''],
                 192 => ['field_name' => 'feel',                           'scale' => 10,        'offset' => 0, 'units' => ''],
